@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/omarkameldev/AirPodDetector/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/AirPodDetector.dir/main.cpp.o -c /home/omarkameldev/AirPodDetector/main.cpp",
+  "file": "/home/omarkameldev/AirPodDetector/main.cpp",
+  "output": "CMakeFiles/AirPodDetector.dir/main.cpp.o"
+}
+]
