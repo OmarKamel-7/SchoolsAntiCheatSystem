@@ -1,14 +1,22 @@
 # SchoolsAntiCheatSystem
 SchoolsAntiCheatSystem
 
-### this project consists of Main 2 parts
+## this project consists of Main 2 parts
 #### (The 2.4Ghz Jammer & the earpiece Detection System)
 
 
-### the system Based on jamming on the 2.4ghz to stop all the earpieces while the exam and the ai camera must be at the exam hall to detect the cheating based on yolo trained model and openCV
+#### the system Based on jamming on the 2.4ghz to stop all the earpieces while the exam and the ai camera must be at the exam hall to detect the cheating based on yolo trained model and openCV
 
 
-### pcb Files and themodel files are uploaded this is only the first version
+#### pcb Files and themodel files are uploaded this is only the first version
+
+## BOM
+
+Esp32-Wroom
+2x nrf24l01 Module
+oled 0.91 i2c
+
+
 
 
 
