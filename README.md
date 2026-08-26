@@ -13,7 +13,9 @@ SchoolsAntiCheatSystem
 ## BOM
 
 Esp32-Wroom
+
 2x nrf24l01 Module
+
 oled 0.91 i2c
 
 
