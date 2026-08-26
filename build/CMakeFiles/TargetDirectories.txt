@@ -1,0 +1,3 @@
+/home/omarkameldev/AirPodDetector/build/CMakeFiles/AirPodDetector.dir
+/home/omarkameldev/AirPodDetector/build/CMakeFiles/edit_cache.dir
+/home/omarkameldev/AirPodDetector/build/CMakeFiles/rebuild_cache.dir
